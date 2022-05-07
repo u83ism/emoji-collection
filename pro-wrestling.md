@@ -16,6 +16,9 @@ For fan mark.
 |🔨|HHH|Triple H|
 |💵|JBL|John "Bradshaw" Layfield|
 |🥷|ニンジャ・マック|Ninja Mack|
+|🫡|ジョン・シナ|John Cena|
+|🫡|永田裕志|Nagata Yuji|
+|🫴💵|オカダ・カズチカ|
 
 # その他(Others)
 |emoji|名前|name|
