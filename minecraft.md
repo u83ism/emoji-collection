@@ -107,6 +107,7 @@
 |--|--|--|
 |🌲🌳|木|Tree|
 |🪨|岩|Rock|
+|🪸|サンゴ|coral|
 |⛰|山|Mountain|
 |🏔|雪山|Snow-capped mountain|
 |🏖|砂浜|Sandy beach|
